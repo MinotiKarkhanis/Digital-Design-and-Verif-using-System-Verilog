@@ -1,2 +1,2 @@
 # Digital-Design-and-Verif-using-System-Verilog
-Constraints,Coverage and Assertions
+This folder contains my personal projects where I have worked on my Digital Design and Verification skills
